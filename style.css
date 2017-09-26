@@ -5,6 +5,39 @@ html,body{
   font-family: 'Josefin Sans', sans-serif;
 
 }
+
+
+
+
+/*Contact bar*/
+.contact-container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.first-box, .second-box, .third-box, .fourth-box{
+  margin: 1%;
+  border-radius: 10px;
+  width: 22.77%;
+  display: inline-block;
+  text-align: center;
+}
+
+
+
+
+.first-box{background:#FFBF37;}
+.second-box{ background:#54A4DC;}
+.third-box{background:#F66;}
+.fourth-box{background:#46C6CE;}
+
+
+
+
+/*Header*/
+
 .header{
   position:relative;
   overflow:hidden;
