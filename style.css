@@ -380,12 +380,11 @@ body {
 
 
 
-/*.services{
-    background:#1B2030 url(images/bkg-blu.jpg) top center no-repeat;
-  margin-top: 400px;
+.services{
+  margin-top: 350px;
   padding: 2%;
 }
-*/
+
 
 
 
@@ -409,6 +408,8 @@ figure.snip1139 {
   text-align: left;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
   border-radius: 8px;
+  vertical-align: top;
+  max-height: 290px;
 }
 figure.snip1139 * {
   -webkit-box-sizing: border-box;
